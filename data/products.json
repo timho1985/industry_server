@@ -1,0 +1,82 @@
+[
+  {
+    "barcode": "684742069602",
+    "name": "Charity Pot",
+    "price": "10",
+    "type": "Body Lotion",
+    "description": "Softens the skin and sparks revolution",
+    "img": "http://localhost:5050/images/charity_pot_hand_and_body_lotion_2020_thumbnail_256.png"
+  },
+  {
+    "barcode": "684742002326",
+    "name": "Ocean Salt",
+    "price": "25",
+    "type": "Face and Body Scrub",
+    "description": "Get glowing with this lime and sea salt bestseller",
+    "img": "http://localhost:5050/images/ocean_salt_face_ans_body_scrub_lanolin_free_2023_012f30d0_thumbnail_256.png"
+  },
+  {
+    "barcode": "45200004441",
+    "name": "Tea Tree Water",
+    "price": "15",
+    "type": "Toner Water",
+    "description": "Refreshing and cleansing",
+    "img": "http://localhost:5050/images/tea_tree_water_toner_water_2020_thumbnail_256.png"
+  },
+  {
+    "barcode": "684742035904",
+    "name": "Ro's Argan",
+    "price": "21",
+    "type": "Body Conditioner",
+    "description": "Lemon-rose body balm",
+    "img": "http://localhost:5050/images/ros_argan_naked_body_conditioner_2021_4f1c9945_thumbnail_256.png"
+  },
+  {
+    "barcode": "684742003101",
+    "name": "T for Toes",
+    "price": "13",
+    "type": "Foot Powder",
+    "description": "Tea tree and lime feet refresher",
+    "img": "http://localhost:5050/images/t_for_toes_foot_powder_2020_thumbnail_256.png"
+  },
+  {
+    "barcode": "684742031654",
+    "name": "Dirty Springwash",
+    "price": "12",
+    "type": "Shower Gel",
+    "description": "nvigorating spearmint lather",
+    "img": "http://localhost:5050/images/dirty_springwash_shower_gel_2020_thumbnail_256.png"
+  },
+  {
+    "barcode": "684742031388",
+    "name": "Whoosh",
+    "price": "10",
+    "type": "Shower Jelly",
+    "description": "Wobbly, zingy, citrus suds",
+    "img": "http://localhost:5050/images/whoosh_shower_jelly_2020_thumbnail_256.png"
+  },
+  {
+    "barcode": "684742060937",
+    "name": "Catastrophe Cosmetic",
+    "price": "14",
+    "type": "Face Mask",
+    "description": "Soothing blueberry balancer",
+    "img": "http://localhost:5050/images/catastrophe_cosmetic_fresh_mask_2020_thumbnail_256.png"
+  },
+  {
+    "barcode": "684742028135",
+    "name": "Eau Roma Water",
+    "price": "15",
+    "type": "Toner Water",
+    "description": "Skin soothing floral infusion",
+    "img": "http://localhost:5050/images/eau_roma_water_toner_water_2020_thumbnail_256.png"
+  },
+  {
+    "barcode": "684742037779",
+    "name": "Fairly Traded Honey",
+    "price": "17",
+    "type": "Shampoo",
+    "description": "Honey-scented softness for dry hair",
+    "img": "http://localhost:5050/images/fairly_traded_honey_shampoo_2020_thumbnail_256.png"
+  }
+]
