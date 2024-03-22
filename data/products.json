@@ -1,82 +1,92 @@
 [
   {
-    "barcode": "684742069602",
+    "id": "03cb53e1-484c-48fd-80ba-38e3139c3421",
+    "barcode": "0684742069602",
     "name": "Charity Pot",
     "price": "10",
     "type": "Body Lotion",
     "description": "Softens the skin and sparks revolution",
-    "img": "http://localhost:5050/images/charity_pot_hand_and_body_lotion_2020_thumbnail_256.png"
+    "img": "http://localhost:8080/images/charity_pot_hand_and_body_lotion_2020_thumbnail_256.png"
   },
   {
-    "barcode": "684742002326",
+    "id": "413dcdf0-0495-489f-adf4-d2bb6d4df81b",
+    "barcode": "0684742002326",
     "name": "Ocean Salt",
     "price": "25",
     "type": "Face and Body Scrub",
     "description": "Get glowing with this lime and sea salt bestseller",
-    "img": "http://localhost:5050/images/ocean_salt_face_ans_body_scrub_lanolin_free_2023_012f30d0_thumbnail_256.png"
+    "img": "http://localhost:8080/images/ocean_salt_face_ans_body_scrub_lanolin_free_2023_012f30d0_thumbnail_256.png"
   },
   {
-    "barcode": "45200004441",
+    "id": "f476e41e-0ad2-4d11-bcab-1a24bbfcac01",
+    "barcode": "045200004441",
     "name": "Tea Tree Water",
     "price": "15",
     "type": "Toner Water",
     "description": "Refreshing and cleansing",
-    "img": "http://localhost:5050/images/tea_tree_water_toner_water_2020_thumbnail_256.png"
+    "img": "http://localhost:8080/images/tea_tree_water_toner_water_2020_thumbnail_256.png"
   },
   {
-    "barcode": "684742035904",
+    "id": "bad3beab-ca80-453a-8b24-2fde69a5254c",
+    "barcode": "0684742035904",
     "name": "Ro's Argan",
     "price": "21",
     "type": "Body Conditioner",
     "description": "Lemon-rose body balm",
-    "img": "http://localhost:5050/images/ros_argan_naked_body_conditioner_2021_4f1c9945_thumbnail_256.png"
+    "img": "http://localhost:8080/images/ros_argan_naked_body_conditioner_2021_4f1c9945_thumbnail_256.png"
   },
   {
-    "barcode": "684742003101",
+    "id": "2bccfab7-a138-4560-9973-800731ecec98",
+    "barcode": "0684742003101",
     "name": "T for Toes",
     "price": "13",
     "type": "Foot Powder",
     "description": "Tea tree and lime feet refresher",
-    "img": "http://localhost:5050/images/t_for_toes_foot_powder_2020_thumbnail_256.png"
+    "img": "http://localhost:8080/images/t_for_toes_foot_powder_2020_thumbnail_256.png"
   },
   {
-    "barcode": "684742031654",
+    "id": "5d02d671-7ddd-48db-b19e-b56455310d7e",
+    "barcode": "0684742031654",
     "name": "Dirty Springwash",
     "price": "12",
     "type": "Shower Gel",
     "description": "nvigorating spearmint lather",
-    "img": "http://localhost:5050/images/dirty_springwash_shower_gel_2020_thumbnail_256.png"
+    "img": "http://localhost:8080/images/dirty_springwash_shower_gel_2020_thumbnail_256.png"
   },
   {
-    "barcode": "684742031388",
+    "id": "247c7bda-0ea4-49a0-af1a-662a8778663c",
+    "barcode": "0684742031388",
     "name": "Whoosh",
     "price": "10",
     "type": "Shower Jelly",
     "description": "Wobbly, zingy, citrus suds",
-    "img": "http://localhost:5050/images/whoosh_shower_jelly_2020_thumbnail_256.png"
+    "img": "http://localhost:8080/images/whoosh_shower_jelly_2020_thumbnail_256.png"
   },
   {
-    "barcode": "684742060937",
+    "id": "0ab9e711-2e17-4cb7-953d-fc01862089c5",
+    "barcode": "0684742060937",
     "name": "Catastrophe Cosmetic",
     "price": "14",
     "type": "Face Mask",
     "description": "Soothing blueberry balancer",
-    "img": "http://localhost:5050/images/catastrophe_cosmetic_fresh_mask_2020_thumbnail_256.png"
+    "img": "http://localhost:8080/images/catastrophe_cosmetic_fresh_mask_2020_thumbnail_256.png"
   },
   {
-    "barcode": "684742028135",
+    "id": "e75e1bd4-5230-4de2-a352-2f0c9106d826",
+    "barcode": "0684742028135",
     "name": "Eau Roma Water",
     "price": "15",
     "type": "Toner Water",
     "description": "Skin soothing floral infusion",
-    "img": "http://localhost:5050/images/eau_roma_water_toner_water_2020_thumbnail_256.png"
+    "img": "http://localhost:8080/images/eau_roma_water_toner_water_2020_thumbnail_256.png"
   },
   {
-    "barcode": "684742037779",
+    "id": "7b8b9b90-e0d6-43f5-8281-7b9aecca7320",
+    "barcode": "0684742037779",
     "name": "Fairly Traded Honey",
     "price": "17",
     "type": "Shampoo",
     "description": "Honey-scented softness for dry hair",
-    "img": "http://localhost:5050/images/fairly_traded_honey_shampoo_2020_thumbnail_256.png"
+    "img": "http://localhost:8080/images/fairly_traded_honey_shampoo_2020_thumbnail_256.png"
   }
 ]

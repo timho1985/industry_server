@@ -32,7 +32,13 @@ router.get("/:productsId", (req, res) => {
     (productsItem) => productsItem.barcode === productsId
   );
 
-  res.status(200).send(selectedproducts);
+  if (selectedproducts) {
+    res.status(200).send(selectedproducts);
+  } else {
+    res.status(400).send({message: "Product not found"});
+  }
+
+  
 });
 
 // // post new order
