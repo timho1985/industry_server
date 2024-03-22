@@ -11,7 +11,7 @@ app.use(express.static("public")); // make resources from the "public" folder av
 app.use(cors()); // avoid CORS errors: allow clients from different domains to access server
 
 // Routes
-app.use("/api/", productRoutes);
+app.use("/api/products", productRoutes);
 
 app.listen(PORT, () => {
   console.log(`Server running on PORT:${PORT}`);

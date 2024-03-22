@@ -29,7 +29,7 @@ router.get("/:productsId", (req, res) => {
 
   // find the products item using the productsId passed through params
   const selectedproducts = products.find(
-    (productsItem) => productsItem.id === productsId
+    (productsItem) => productsItem.barcode === productsId
   );
 
   res.status(200).send(selectedproducts);
